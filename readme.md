@@ -2,7 +2,7 @@
 
 Dit script converteert DXF bestanden die binnen HHNK gemaakt worden naar Deltares DStability (stix) bestanden.
 
-![Voorbeeld]()
+![Voorbeeld](https://github.com/breinbaas/hhnk_dxf2stix/blob/master/img/sample.jpg)
 
 ## DXF eisen 
 
