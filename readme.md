@@ -18,7 +18,7 @@ Download de code van het script via;
 ## Script uitvoeren
 * activeer de virtuele omgeving ```.venv/scripts/activate```
 * plaats de DXF bestanden in de de ```/data``` directory 
-* run het script ```python main.py```
+* run het script ```python convert.py```
 * in de data directory worden stix bestanden gegenereerd met dezelfde naam als het dxf bestand maar met ```stix``` als extensie
 
 ## Debug informatie
