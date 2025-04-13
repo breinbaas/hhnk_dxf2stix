@@ -1,0 +1,1 @@
+Dit bestand zorgt ervoor dat het datapad automatisch gegenereerd wordt bij een git clone actie.
