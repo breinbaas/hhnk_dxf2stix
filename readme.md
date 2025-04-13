@@ -23,7 +23,8 @@ Download de code van het script via;
 
 ## Debug informatie
 
-Indien er fouten optreden bij de conversie van een DXF bestand wordt geprobeerd om afbeeldingen van het conversie proces te genereren. Deze verschijnen in het uitvoerpad met de naam <filename>.debug.<stap>.png
+Indien er fouten optreden bij de conversie van een DXF bestand wordt geprobeerd om afbeeldingen van het conversie proces te genereren. Deze verschijnen in het uitvoerpad met de naam 
+```<bestandsnaam>.debug.<stap>.png```
 
 Op deze manier kan eenvoudiger bepaald worden of er in de DXF fouten zitten.
 
