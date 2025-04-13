@@ -1,2 +1,2 @@
-ezdxf
-d-geolib
+ezdxf==1.4.0
+d-geolib==2.6.0

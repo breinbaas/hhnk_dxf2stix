@@ -6,7 +6,7 @@ Dit script converteert DXF bestanden die binnen HHNK gemaakt worden naar Deltare
 
 ## DXF eisen 
 
-Alle lagen dienen als polygonen gedefinieerd te zijn. Alle lijnen van de polygonen dienen aangesloten te zijn en bij meerdere lagen dienen gedeelde punten op beide lagen voor te komen.
+Alle lagen dienen als polygonen gedefinieerd te zijn. Alle lijnen van de polygonen dienen aaneengesloten te zijn en bij meerdere lagen dienen gedeelde punten op beide lagen voor te komen.
 
 ## Installatie
 
