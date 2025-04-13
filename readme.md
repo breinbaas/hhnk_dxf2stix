@@ -11,7 +11,7 @@ Alle lagen dienen als polygonen gedefinieerd te zijn. Alle lijnen van de polygon
 ## Installatie
 
 Download de code van het script via;
-* git clone ```git@github.com:breinbaas/hhnk_dxf.git```
+* git clone ```git@github.com:breinbaas/hhnk_dxf2stix.git```
 * ga naar de directory met de code en maak een virtuele omgeving aan; ```python -m venv .venv```
 * installeer de benodigde packages ```python -m pip install -r requirements.txt```
 
